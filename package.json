@@ -1,5 +1,5 @@
 {
-  "name": "safe-core-sdk",
+  "name": "@safe-global/safe-core-sdk",
   "version": "2.0.0",  
   "description": "Collection of Safe singleton deployments",
   "private": true,
