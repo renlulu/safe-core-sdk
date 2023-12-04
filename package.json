@@ -1,6 +1,8 @@
 {
   "name": "safe-core-sdk",
-  "version": "2.0.0",
+  "version": "2.0.0",  
+  "description": "Collection of Safe singleton deployments",
+  "homepage": "https://github.com/safe-global/safe-deployments/",
   "scripts": {
     "clean": "lerna clean",
     "unbuild": "lerna run unbuild",
